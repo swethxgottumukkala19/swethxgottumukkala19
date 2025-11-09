@@ -12,7 +12,7 @@ Sometimes it’s a web app, sometimes it’s an AI model — always something th
 
 When the models rest, I switch to C++ DSA and logic puzzles — same thrill, fewer neurons.
  
-☕ Debugging, logic, and late-night problem-solving — my kind of flow.
+🧩⚡ Debugging, logic, and late-night problem-solving — my kind of flow.
 
 
 ---
