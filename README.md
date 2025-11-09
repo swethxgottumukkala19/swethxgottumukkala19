@@ -1,18 +1,19 @@
-## Hi there 👋
-
-# I'm Swetha Gottumukkala  
+## 👋 Hi there! I'm Swetha (Shawtawh) 
 
 🎓 *B.Tech in Computer Science & Engineering (Artificial Intelligence)*  
 📍 Amrita Vishwa Vidyapeetham, Amaravati, Andhra Pradesh  
-💡 *AI Enthusiast | Deep Learning Explorer | Data Engineer in the Making*  
 
 ---
 
 ## 🚀 About Me  
-I’m passionate about building AI-driven solutions that bridge technology and real-world impact.  
-Experienced in **web development, machine learning, data analytics and data engineering**, and I love working on projects that blend creativity with data-driven insights.  
+I build stuff that learns.
+Mostly with Python, a few neural nets, and an unhealthy obsession with good food.
+Sometimes it’s a web app, sometimes it’s an AI model — always something that solves a real problem or something that is a bit fun.  
 
-- ⚡ Fun fact: I can debug better with a cup of coffee ☕ and some calm lofi music 🎧  
+When the models rest, I switch to C++ DSA and logic puzzles — same thrill, fewer neurons.
+ 
+☕ Debugging, logic, and late-night problem-solving — my kind of flow.
+
 
 ---
 
@@ -61,11 +62,7 @@ Experienced in **web development, machine learning, data analytics and data engi
 
 ---
 
-## 📈 GitHub Stats
-
-![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethxgottumukkala19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swethxgottumukkala19&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=swethxgottumukkala19&theme=radical)
 
 ---
 
